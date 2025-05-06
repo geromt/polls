@@ -40,6 +40,8 @@ INSTALLED_APPS = [
 
     'main.apps.MainConfig',
     'postApp.apps.PostappConfig',
+
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
